@@ -34,10 +34,10 @@ The app is built using Android Studio and runs on an Android Emulator.
 ### Subtraction
 ![Screenshot (1458)](https://github.com/user-attachments/assets/650000ba-ad75-4930-8c4a-232efd43b4c9)
 
-### Subtraction
+### Multiplication
 ![Screenshot (1459)](https://github.com/user-attachments/assets/b503c9e4-18db-48a0-bf7d-b67aec7925de)
 
-### Divition
+### Division
 ![Screenshot (1460)](https://github.com/user-attachments/assets/2bf71b76-d4b5-4338-99a5-c67dc7114bad)
 
 
